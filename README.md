@@ -21,6 +21,7 @@
 ![Blender](https://img.shields.io/badge/Blender-★★★☆☆-blue?style=flat&logo=blender)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-★★★★☆-blue?style=flat&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/Figma-★★★☆☆-blue?style=flat&logo=figma)
+`C#` ![90%](https://progress-bar.dev/90/?title=90%25&width=400)
 
 ### Bases de Datos:
 ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-blue?style=flat&logo=mysql)
