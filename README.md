@@ -23,7 +23,7 @@
 ![Figma](https://img.shields.io/badge/Figma-★★★☆☆-blue?style=flat&logo=figma)
 
 
-`C#` ![](https://progress-bar.dev/90/?title=%25&width=400)
+`C#` ![](https://progress-bar.dev/90/?title=25&width=400)
 
 ### Bases de Datos:
 ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-blue?style=flat&logo=mysql)
