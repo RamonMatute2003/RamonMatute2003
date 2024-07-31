@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/C++-★★★☆☆-blue?style=flat&logo=c%2B%2B)
 ![.NET](https://img.shields.io/badge/.NET-★★★★☆-blue?style=flat&logo=.net)
 ![HTML5](https://img.shields.io/badge/HTML5-★★★☆☆-blue?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-90%25-blue?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-★★★☆☆-blue?style=flat&logo=css3)
 
 ### Motores y Herramientas de Desarrollo de Juegos:
 ![Unity](https://img.shields.io/badge/Unity-★★★★★-blue?style=flat&logo=unity)
