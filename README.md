@@ -7,84 +7,28 @@
 
 <h1 align="center">💻 Tech Stack</h1>
 
-<p align="center">
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/windows/apps/winui/winui3/">
-    <img src="https://img.shields.io/badge/-WPF-blue?style=for-the-badge&logo=windows&logoColor=white" alt="WPF"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui">
-    <img src="https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=for-the-badge&logo=maui&logoColor=white" alt=".NET MAUI"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/xamarin">
-    <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
-  </a>
-  <a href="https://www.w3.org/html/">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-</p>
+### Lenguajes de Programación y Frameworks:
+![C#](https://img.shields.io/badge/C%23-★★★★☆-blue?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-★★★★☆-blue?style=flat&logo=.net)
+![C++](https://img.shields.io/badge/C++-★★★☆☆-blue?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/HTML5-★★★☆☆-blue?style=flat&logo=html5)
 
-<p align="center">
-  <!-- Design Tools -->
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
-  </a>
-  <a href="https://www.blender.org/">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  </a>
-  <a href="https://www.autodesk.com/products/autocad/overview">
-    <img src="https://img.shields.io/badge/Autodesk-%23F5792A.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk"/>
-  </a>
-  <a href="https://www.unrealengine.com/">
-    <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
-  </a>
-</p>
+### Motores y Herramientas de Desarrollo de Juegos:
+![Unity](https://img.shields.io/badge/Unity-★★★★★-blue?style=flat&logo=unity)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-★★★☆☆-blue?style=flat&logo=unreal-engine)
 
-<p align="center">
-  <!-- Databases -->
-  <a href="https://mariadb.org/">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://sqlite.org/">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  </a>
-</p>
+### Diseño y Modelado:
+![Blender](https://img.shields.io/badge/Blender-★★★☆☆-blue?style=flat&logo=blender)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-★★★★☆-blue?style=flat&logo=adobe-photoshop)
+![Figma](https://img.shields.io/badge/Figma-★★★☆☆-blue?style=flat&logo=figma)
 
-<p align="center">
-  <!-- Other Tools -->
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://httpd.apache.org/">
-    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-  </a>
-  <a href="https://www.adobe.com/products/bridge.html">
-    <img src="https://img.shields.io/badge/Adobe_Bridge-%23FF9A00.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Bridge"/>
-  </a>
-</p>
+### Bases de Datos:
+![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-blue?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-★★★☆☆-blue?style=flat&logo=sqlite)
 
+### Herramientas de Control de Versiones y Otros:
+![Git](https://img.shields.io/badge/Git-★★★★☆-blue?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-★★★★☆-blue?style=flat&logo=github)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RamonMatute2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
