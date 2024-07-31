@@ -6,6 +6,33 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-matute) 
 
 # 💻 Tech Stack:
+
+<h1 align="center">💻 Tech Stack</h1>
+
+<p align="center">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/windows/apps/winui/winui3/">
+    <img src="https://img.shields.io/badge/-WPF-blue?style=for-the-badge&logo=windows&logoColor=white" alt="WPF"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui">
+    <img src="https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=for-the-badge&logo=maui&logoColor=white" alt=".NET MAUI"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/xamarin">
+    <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+</p>
+
 ## 🖥️ Lenguajes de Programación y Frameworks:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
