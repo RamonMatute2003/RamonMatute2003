@@ -13,28 +13,28 @@
 ![HTML5](https://img.shields.io/badge/HTML5-★★★☆☆-blue?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-★★☆☆☆-blue?style=flat&logo=css3)
 ![.NET](https://img.shields.io/badge/.NET-★★★★☆-blue?style=flat&logo=.net)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-★★★☆☆-blue?style=flat&logo=dot-net)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-★★★★☆-blue?style=flat&logo=dot-net)
 ![Xamarin](https://img.shields.io/badge/Xamarin-★★★☆☆-blue?style=flat&logo=xamarin)
-![WPF](https://img.shields.io/badge/WPF-★★★☆☆-blue?style=flat&logo=windows)
+![WPF](https://img.shields.io/badge/WPF-★★☆☆☆-blue?style=flat&logo=windows)
 
 ### Motores y Herramientas de Desarrollo de Juegos:
 ![Unity](https://img.shields.io/badge/Unity-★★★★★-blue?style=flat&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-★★★☆☆-blue?style=flat&logo=unreal-engine)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-★★☆☆☆-blue?style=flat&logo=unreal-engine)
 
 ### Diseño y Modelado:
-![Blender](https://img.shields.io/badge/Blender-★★★☆☆-blue?style=flat&logo=blender)
+![Blender](https://img.shields.io/badge/Blender-★★★★☆-blue?style=flat&logo=blender)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-★★★★☆-blue?style=flat&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-★★★★☆-blue?style=flat&logo=adobe-illustrator)
-![MagicVoxel](https://img.shields.io/badge/MagicVoxel-★★★☆☆-blue?style=flat&logo=magicavoxel)
-![Adobe Bridge](https://img.shields.io/badge/Adobe%20Bridge-★★☆☆☆-blue?style=flat&logo=adobe)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-★★★☆☆-blue?style=flat&logo=autodesk)
-![Maya](https://img.shields.io/badge/Maya-★★★☆☆-blue?style=flat&logo=autodesk)
+![MagicVoxel](https://img.shields.io/badge/MagicVoxel-★★★★☆-blue?style=flat&logo=magicavoxel)
+![Adobe Bridge](https://img.shields.io/badge/Adobe%20Bridge-★★★☆☆-blue?style=flat&logo=adobe)
+![Adobe 3ds Max](https://img.shields.io/badge/3ds%20Max-★★★★☆-blue?style=flat&logo=autodesk)
+![Adobe Maya](https://img.shields.io/badge/Maya-★★★★☆-blue?style=flat&logo=autodesk)
 ![Figma](https://img.shields.io/badge/Figma-★★★☆☆-blue?style=flat&logo=figma)
 
 ### Bases de Datos:
 ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-blue?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-★★★☆☆-blue?style=flat&logo=sqlite)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-★★★★☆-blue?style=flat&logo=microsoft-sql-server)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-★★☆☆☆-blue?style=flat&logo=microsoft-sql-server)
 
 ### Herramientas de Control de Versiones y Otros:
 ![Git](https://img.shields.io/badge/Git-★★★★☆-blue?style=flat&logo=git)
