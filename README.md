@@ -30,6 +30,7 @@
 ![Adobe 3ds Max](https://img.shields.io/badge/3ds%20Max-★★★★☆-blue?style=flat&logo=autodesk)
 ![Adobe Maya](https://img.shields.io/badge/Maya-★★★★☆-blue?style=flat&logo=autodesk)
 ![Figma](https://img.shields.io/badge/Figma-★★★☆☆-blue?style=flat&logo=figma)
+![ZBrush](https://img.shields.io/badge/ZBrush-★★★☆☆-blue?style=flat&logo=pixologic)
 
 ### Bases de Datos:
 ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-blue?style=flat&logo=mysql)
